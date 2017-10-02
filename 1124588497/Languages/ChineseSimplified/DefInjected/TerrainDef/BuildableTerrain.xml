@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <Gravel.label>沙砾</Gravel.label>-->
+  <Gravel.description>砂砾，缺乏肥力但相当坚实。</Gravel.description>
+
+  <!--[Core] <MarshyTerrain.label>湿软的土地</MarshyTerrain.label>-->
+  <MarshyTerrain.description>湿软的土地，可怕的烂泥地能极大地拖慢通过者的脚步，不分敌我。</MarshyTerrain.description>
+
+  <!--[Core] <MossyTerrain.label>苔藓地面</MossyTerrain.label>-->
+  <MossyTerrain.description>苔藓地面，覆盖着厚厚的青苔。</MossyTerrain.description>
+
+  <!--[Core] <Soil.label>土地</Soil.label>-->
+  <Soil.description>土地，相当适合种植。</Soil.description>
+
+  <!--[Core] <SoilRich.label>肥沃的土地</SoilRich.label>-->
+  <SoilRich.description>肥沃的土地，非常适合种植。</SoilRich.description>
+
+  <!--[Core] <Ice.label>冰面</Ice.label>-->
+  <Ice.description>冰面，坚实而且滑溜溜。</Ice.description>
+
+  <!--[Core] <Mud.label>泥地</Mud.label>-->
+  <Mud.description>泥地，又湿又黏。</Mud.description>
+
+  <!--[Core] <Marsh.label>沼泽</Marsh.label>-->
+  <Marsh.description>沼泽，可怕的烂泥地能极大地拖慢通过者的脚步，不分敌我。</Marsh.description>
+
+  <!--[Core] <Sand.label>沙地</Sand.label>-->
+  <Sand.description>沙地，很讨人厌而且沙子总是会搞得到处都是。</Sand.description>
+
+  <!--[Core] <WaterShallow.label>浅水</WaterShallow.label>-->
+  <WaterShallow.description>平静的浅水，能不分敌我地拖慢通过者的脚步。</WaterShallow.description>
+
+  <!--[Core] <WaterDeep.label>深水</WaterDeep.label>-->
+  <WaterDeep.description>平静的深水，不可通过。</WaterDeep.description>
+
+  <!--[Core] <WaterMovingShallow.label>流动的浅水</WaterMovingShallow.label>-->
+  <WaterMovingShallow.description>流动的浅水，能不分敌我地拖慢通过者的脚步。</WaterMovingShallow.description>
+
+  <!--[Core] <WaterMovingDeep.label>流动的深水</WaterMovingDeep.label>-->
+  <WaterMovingDeep.description>流动的深水，不可通过。创造属于你的河流的绝好素材。</WaterMovingDeep.description>
+
+  <smoothsandstone.label>光滑的砂岩地面</smoothsandstone.label>
+  <smoothsandstone.description>打磨光滑的天然砂岩地面。</smoothsandstone.description>
+
+  <smoothmarble.label>光滑的大理石地面</smoothmarble.label>
+  <smoothmarble.description>打磨光滑的天然大理石地面。</smoothmarble.description>
+
+  <smoothgranite.label>光滑的花岗岩地面</smoothgranite.label>
+  <smoothgranite.description>打磨光滑的天然花岗岩地面。</smoothgranite.description>
+
+  <smoothslate.label>光滑的板岩地面</smoothslate.label>
+  <smoothslate.description>打磨光滑的天然板岩地面。</smoothslate.description>
+
+  <smoothlimestone.label>光滑的石灰岩地面</smoothlimestone.label>
+  <smoothlimestone.description>打磨光滑的天然石灰岩地面。</smoothlimestone.description>
+
+
+</LanguageData>
