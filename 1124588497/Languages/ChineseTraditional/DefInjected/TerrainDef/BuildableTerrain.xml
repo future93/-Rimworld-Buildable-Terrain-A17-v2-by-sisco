@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <Gravel.label>沙礫</Gravel.label>-->
+  <Gravel.description>沙礫，缺乏肥力但相當堅實。</Gravel.description>
+
+  <!--[Core] <MarshyTerrain.label>沼澤地</MarshyTerrain.label>-->
+  <MarshyTerrain.description>沼澤地，可怕的爛泥能陷住所有試圖通過的人。</MarshyTerrain.description>
+
+  <!--[Core] <MossyTerrain.label>苔癬地</MossyTerrain.label>-->
+  <MossyTerrain.description>苔癬地，覆蓋著厚厚的青苔。</MossyTerrain.description>
+
+  <!--[Core] <Soil.label>土地</Soil.label>-->
+  <Soil.description>土地，適合種植作物。</Soil.description>
+
+  <!--[Core] <SoilRich.label>沃土</SoilRich.label>-->
+  <SoilRich.description>沃土，非常適合種植作物。</SoilRich.description>
+
+  <!--[Core] <Ice.label>冰</Ice.label>-->
+  <Ice.description>冰，堅實且滑溜。</Ice.description>
+
+  <!--[Core] <Mud.label>泥地</Mud.label>-->
+  <Mud.description>泥地，又濕又黏。</Mud.description>
+
+  <!--[Core] <Marsh.label>沼澤</Marsh.label>-->
+  <Marsh.description>沼澤，可怕的爛泥能陷住所有試圖通過的人。</Marsh.description>
+
+  <!--[Core] <Sand.label>沙子</Sand.label>-->
+  <Sand.description>沙子，很討人厭而且沙塵總是會搞得到處都是。</Sand.description>
+
+  <!--[Core] <WaterShallow.label>淺水</WaterShallow.label>-->
+  <WaterShallow.description>平靜的淺水，能拖慢所有試圖通過的人。</WaterShallow.description>
+
+  <!--[Core] <WaterDeep.label>深水</WaterDeep.label>-->
+  <WaterDeep.description>平靜的深水，不可通過。</WaterDeep.description>
+
+  <!--[Core] <WaterMovingShallow.label>shallow moving water</WaterMovingShallow.label>-->
+  <WaterMovingShallow.description>流動的淺水，能拖慢所有試圖通過的人。</WaterMovingShallow.description>
+
+  <!--[Core] <WaterMovingDeep.label>deep moving water</WaterMovingDeep.label>-->
+  <WaterMovingDeep.description>流動的深水，不可通過。創造河流的絕好素材。</WaterMovingDeep.description>
+
+  <!--[Core] <Sandstone_Smooth.label>光滑砂岩地</Sandstone_Smooth.label>-->
+  <!--[Core] <Sandstone_Smooth.description>經打磨的光滑砂岩地面。</Sandstone_Smooth.description>-->
+
+  <!--[Core] <Marble_Smooth.label>光滑大理石地</Marble_Smooth.label>-->
+  <!--[Core] <Marble_Smooth.description>經打磨的光滑大理石地面。</Marble_Smooth.description>-->
+
+  <!--[Core] <Granite_Smooth.label>光滑花崗岩地</Granite_Smooth.label>-->
+  <!--[Core] <Granite_Smooth.description>經打磨的光滑花崗岩地面。</Granite_Smooth.description>-->
+
+  <!--[Core] <Slate_Smooth.label>光滑板岩地</Slate_Smooth.label>-->
+  <!--[Core] <Slate_Smooth.description>經打磨的光滑板岩地面。</Slate_Smooth.description>-->
+
+  <!--[Core] <Limestone_Smooth.label>光滑石灰岩地</Limestone_Smooth.label>-->
+  <!--[Core] <Limestone_Smooth.description>經打磨的光滑石灰岩地面。</Limestone_Smooth.description>-->
+
+
+</LanguageData>
